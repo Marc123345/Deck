@@ -20,7 +20,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "EID Growth Opportunity",
   description:
-    "From brochure site to proof-driven sales engine — strategy deck prepared for EID Ltd.",
+    "From brochure site to a site that wins business — strategy deck prepared for EID Ltd.",
   robots: { index: false, follow: false },
 };
 
